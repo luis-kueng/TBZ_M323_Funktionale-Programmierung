@@ -1,5 +1,3 @@
-//> using scala 3.7.0
-
 object Main
 {
   def main(args:Array[String]): Unit =
