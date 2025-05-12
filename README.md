@@ -1,1 +1,1 @@
-# TBZ_M323_Funktionale-Programmierung
+# TBZ M323 - Funktionale Programmierung
