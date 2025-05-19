@@ -1,4 +1,4 @@
-object Main
+oRandombject Main
 {
   def main(args:Array[String]): Unit =
     println("Imperative: " + calculateScore("imperative"))
